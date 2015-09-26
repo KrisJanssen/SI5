@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioPropertySheet
+	ProjectType="Visual C++"
+	Version="8.00"
+	Name="LOCAL INSTALL"
+	>
+	<Tool
+		Name="VCCustomBuildTool"
+		CommandLine="copy &quot;$(ProjectDir)NiFpgaWrapper.dll&quot; &quot;$(ProjectDir)..\..\..\..\..\+dabs\+ni\+rio\private&quot;&#x0D;&#x0A;copy &quot;$(ProjectDir)NiFpga.h&quot; &quot;$(ProjectDir)..\..\..\..\..\+dabs\+ni\+rio\private\NiFpgaWrapper.h&quot;"
+		Outputs="dummy_name_so_event_always_fires"
+	/>
+	<Tool
+		Name="VCLinkerTool"
+		ShowProgress="0"
+		OutputFile=""
+	/>
+	<UserMacro
+		Name="DEVTOOLSPATH"
+		Value="C:\Program Files\ScanImage\DEVTOOLS"
+	/>
+	<UserMacro
+		Name="DEV3P"
+		Value="$(DEVTOOLSPATH)\ThirdParties"
+	/>
+	<UserMacro
+		Name="MATLABVER"
+		Value="R2011b"
+	/>
+	<UserMacro
+		Name="NIDAQVERFOLDER"
+		Value="NIDAQmx_$(NIDAQVER)"
+	/>
+	<UserMacro
+		Name="NIDAQVER"
+		Value="9_3_x"
+	/>
+	<UserMacro
+		Name="NIFPGAVER"
+		Value="13_0"
+	/>
+</VisualStudioPropertySheet>

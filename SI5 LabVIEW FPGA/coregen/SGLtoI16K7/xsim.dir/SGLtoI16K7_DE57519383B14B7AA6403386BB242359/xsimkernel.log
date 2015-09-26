@@ -1,0 +1,7 @@
+Running: xsim.dir/SGLtoI16K7_DE57519383B14B7AA6403386BB242359/xsimk_DE57519383B14B7AA6403386BB242359.dll -log xsiSetupLog
+Design successfully loaded
+Design Loading Memory Usage: 867564 KB (Peak: 875500 KB)
+Design Loading CPU Usage: 107312 ms
+Simulation completed
+Simulation Memory Usage: 856484 KB (Peak: 875500 KB)
+Simulation CPU Usage: 109324 ms

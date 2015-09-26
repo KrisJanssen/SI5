@@ -1,0 +1,7 @@
+Running: xsim.dir/DivideSGL_K7_EB72A9E93DBE4CEBB2626B44969B07DB/xsimk_EB72A9E93DBE4CEBB2626B44969B07DB.dll -log xsiSetupLog
+Design successfully loaded
+Design Loading Memory Usage: 861620 KB (Peak: 875500 KB)
+Design Loading CPU Usage: 106142 ms
+Simulation completed
+Simulation Memory Usage: 859932 KB (Peak: 875500 KB)
+Simulation CPU Usage: 109324 ms

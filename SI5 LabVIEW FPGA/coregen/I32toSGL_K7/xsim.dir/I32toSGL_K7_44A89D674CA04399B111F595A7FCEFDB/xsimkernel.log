@@ -1,0 +1,7 @@
+Running: xsim.dir/I32toSGL_K7_44A89D674CA04399B111F595A7FCEFDB/xsimk_44A89D674CA04399B111F595A7FCEFDB.dll -log xsiSetupLog
+Design successfully loaded
+Design Loading Memory Usage: 850460 KB (Peak: 875500 KB)
+Design Loading CPU Usage: 104909 ms
+Simulation completed
+Simulation Memory Usage: 865548 KB (Peak: 875500 KB)
+Simulation CPU Usage: 109324 ms

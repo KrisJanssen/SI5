@@ -1,0 +1,21 @@
+Command line:
+   I32toSGL_V5_5C7CB889465D4178BEAD3C8DDC476BC2.dll
+     -log  xsiSetupLog
+     -sysgen
+
+Wed Dec 24 16:41:04 2014
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 971.059 Meg
+
+ Total Signals          : 88
+ Total Nets             : 193
+ Total Signal Drivers   : 33
+ Total Blocks           : 27
+ Total Primitive Blocks : 16
+ Total Processes        : 21
+ Total Traceable Variables  : 304
+ Total Scalar Nets and Variables : 1694
+694
